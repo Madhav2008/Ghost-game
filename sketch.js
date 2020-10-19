@@ -68,7 +68,7 @@ function draw(){
     stroke("yellow");
     fill("yellow");
     textSize(30);
-    text("Game Over", 300,300)
+    text("Game Over", 200,350);
   }
 
 }
@@ -108,4 +108,3 @@ function spawnDoors() {
     invisibleBlockGroup.add(invisibleBlock);
   }
 }
-
